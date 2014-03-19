@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Deployment xmlns="http://schemas.microsoft.com/windowsphone/2012/deployment" AppPlatformVersion="8.0">
   <DefaultLanguage xmlns="" code="de-DE"/>
-  <App xmlns="" ProductID="{63cedf19-77aa-4e3b-a288-14784da287b0}" Title="GanyMed" RuntimeType="Silverlight" Version="1.0.0.0" Genre="apps.normal" Author="GanyMed author" Description="Sample description" Publisher="GanyMed" PublisherID="{27a929f9-0bed-4b26-bff9-7f16e6b88d82}">
+  <App xmlns="" ProductID="{a2f4298e-7a37-401b-b221-c6dc52a7bca0}" Title="GanyMed" RuntimeType="Silverlight" Version="1.0.0.0" Genre="apps.normal" Author="GanyMed author" Description="Sample description" Publisher="GanyMed" PublisherID="{046a9fb1-4d28-4d4b-a928-5e6ce8d06b62}">
     <IconPath IsRelative="true" IsResource="false">Assets\ApplicationIcon.png</IconPath>
     <Capabilities>
       <Capability Name="ID_CAP_NETWORKING"/>
